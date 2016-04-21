@@ -1364,6 +1364,18 @@
         <layout>Solution-Solution Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Target_Measure__c-Target Measure Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Target_Profile_User__c-Target Profile User Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Target_Profile__c-Target Profile Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Target__c-Target Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Task-Task Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
